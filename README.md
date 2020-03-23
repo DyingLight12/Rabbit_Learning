@@ -6,4 +6,4 @@
   使用方法：<br>
   右上角菜单->扫码登录->一键截图登录 ->打开学习强国扫码登录选择相册选择最新图片->确定登录->返回主页->开始学习等待学习完成。<br>
   打开软件会自动静音媒体音量。<br>
-  <a href="https://github.com/DyingLight12/Rabbit_Learning/releases/download/">点击我开始下载Android版</a>
+  <a href="https://github.com/DyingLight12/Rabbit_Learning/releases">点击我开始下载Android版</a>
