@@ -1,6 +1,6 @@
 # Rabbit_Learning
 <h1>软件仅供学习参考，切勿用作商用，下载学习后请删除。出现任何法律纠纷与作者无关，使用即代表同一此观点！模拟真人操作学习！PS:此程序调用WIN部分核心代码，可能出现误报病毒，但没有任何流氓行为。请添加到信任白名单后再试。<h1><br>
-<a href="https://raw.githubusercontent.com/DyingLight12/Rabbit_Learning/master/RabbitLearning.exe">点击我开始下载</a>
+<a href="https://github.com/DyingLight12/Rabbit_Learning/releases/download/win32%2F64/RabbitLearning.exe">点击我开始下载</a>
 <h1>Android_Rabbit_Learning<h1><br>
 电脑版Rabbit_Learning移植版,已更新版本。可完美使用！欢迎加入电报群！<br>
   使用方法：<br>
