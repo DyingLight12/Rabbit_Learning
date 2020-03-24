@@ -11,4 +11,4 @@
     最新图片->确定登录->返回主页->开始学习等待学习完成。
     打开软件会自动静音媒体音量。
     
-    [查看版本并下载](https://github.com/DyingLight12/Rabbit_Learning/releases)
+[查看版本并下载](https://github.com/DyingLight12/Rabbit_Learning/releases)
